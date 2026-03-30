@@ -82,7 +82,7 @@ $languages = $formData['languages'] ?? [];
 <body>
     <h2>Регистрационная форма</h2>
 
-    <form action="process.php" method="post">
+    <form action="index.php" method="post">
         <!-- ФИО -->
         <div class="field-group">
             <label for="name">ФИО *</label>
